@@ -9,3 +9,5 @@
 #### 3. ObjectsAndArrays
 
 #### 4. Explicit-Types
+
+#### 5. Dynamic-Type
