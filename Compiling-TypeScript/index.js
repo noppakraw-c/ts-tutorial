@@ -1,4 +1,4 @@
-var name = 'game';
+var name = 'game-gg';
 var age = 25;
 var sex = 'man';
 var data = {

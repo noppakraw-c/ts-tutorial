@@ -1,4 +1,4 @@
-const name = 'game';
+const name = 'game-gg';
 const age = 25;
 const sex = 'man';
 
