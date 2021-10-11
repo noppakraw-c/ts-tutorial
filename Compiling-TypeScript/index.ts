@@ -1,9 +1,9 @@
-const name = 'game-gg';
+const nicName = 'game-gg';
 const age = 25;
 const sex = 'man';
 
 const data = {
-  name,
+  nicName,
   age,
   sex,
 }

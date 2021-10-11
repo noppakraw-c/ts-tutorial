@@ -1,10 +1,10 @@
-var name = 'game-gg';
+var nicName = "game-gg";
 var age = 25;
-var sex = 'man';
+var sex = "man";
 var data = {
-    name: name,
-    age: age,
-    sex: sex
+  nicName: nicName,
+  age: age,
+  sex: sex,
 };
 var profile = [];
 var countArray = profile.push(data);
